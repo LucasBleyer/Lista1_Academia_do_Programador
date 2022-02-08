@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imobiliaria.ConsoleApp", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panificadora.ConsoleApp", "Panificadora.ConsoleApp\Panificadora.ConsoleApp.csproj", "{01E05896-0D4B-4F45-82B6-FCE17029483A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdadeToDias.ConsoleApp", "IdadeToDias.ConsoleApp\IdadeToDias.ConsoleApp.csproj", "{5AB58A3E-D1CA-415A-B236-401C12FEE543}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{01E05896-0D4B-4F45-82B6-FCE17029483A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01E05896-0D4B-4F45-82B6-FCE17029483A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01E05896-0D4B-4F45-82B6-FCE17029483A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB58A3E-D1CA-415A-B236-401C12FEE543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB58A3E-D1CA-415A-B236-401C12FEE543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB58A3E-D1CA-415A-B236-401C12FEE543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB58A3E-D1CA-415A-B236-401C12FEE543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
